@@ -1,4 +1,4 @@
-# 💸 App de Finanças Pessoais da Gabriala com Vibe Coding
+# 💸 App de Finanças Pessoais da Gabriela com Vibe Coding
 
 ### Prompt final (PRD) refinado com copilot 
 
